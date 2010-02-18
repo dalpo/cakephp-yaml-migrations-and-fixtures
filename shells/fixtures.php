@@ -16,7 +16,7 @@
 */
 
 uses('file', 'folder');
-App::import('vendor','fixtures');
+App::import('vendor','fixtures/fixtures');
 
 
 class FixturesShell extends Shell {
